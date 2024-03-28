@@ -4,11 +4,12 @@ It is a simple game in which you:
 1. Click the Start Game button
 2. Click the purple box that will appear on screen in a random number of seconds as fast as you can
 3. You will get your reaction time displayed on screen.
-<img width="686" alt="Screenshot 2024-03-28 at 15 15 53" src="https://github.com/alina-ahmed-tech/vuereactiongame/assets/130942761/512699b2-f423-4c7d-bec2-57e76989706a">
-<img width="637" alt="Screenshot 2024-03-28 at 15 16 14" src="https://github.com/alina-ahmed-tech/vuereactiongame/assets/130942761/61ff9d35-d008-491f-ad18-2194ef130b69">
-<img width="645" alt="Screenshot 2024-03-28 at 15 17 00" src="https://github.com/alina-ahmed-tech/vuereactiongame/assets/130942761/9efc648b-8eb7-4490-91da-5c3f298f40ef">
+<img width="524" alt="Screenshot 2024-03-28 at 15 52 08" src="https://github.com/alina-ahmed-tech/vuereactiongame/assets/130942761/97226481-df7e-4b13-ba02-f595aa046d16">
+<img width="524" alt="Screenshot 2024-03-28 at 15 52 33" src="https://github.com/alina-ahmed-tech/vuereactiongame/assets/130942761/de66a58e-3e62-4315-adfc-d99431f558bc">
+<img width="522" alt="Screenshot 2024-03-28 at 15 53 05" src="https://github.com/alina-ahmed-tech/vuereactiongame/assets/130942761/78463d4b-2e53-4232-a4bd-5dd21c7702a6">
 
--------------------------------------
+
+
 ## Project setup
 ```
 npm install
